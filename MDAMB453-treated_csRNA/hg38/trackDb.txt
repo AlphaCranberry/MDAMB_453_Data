@@ -1,0 +1,82 @@
+track MDAMB453-treated_csRNA
+container multiWig
+noInherit on
+shortLabel MDAMB453-treated_csRNA
+longLabel MDAMB453-treated_csRNA
+type bigWig
+configurable on
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+autoScale on
+windowingFunction maximum
+priority 1.4
+alwaysZero on
+yLineMark 0
+yLineOnOff on
+maxHeightPixels 125:125:11
+
+track homo_sapiens_MDAMB453_100nMCFZ_csRNA+
+bigDataUrl https://raw.githubusercontent.com/AlphaCranberry/MDAMB_453_Data/main/MDAMB453-treated_csRNA/hg38/homo_sapiens_MDAMB453_100nMCFZ_csRNApos.ucsc.bigWig
+shortLabel homo_sapiens_MDAMB453_100nMCFZ_csRNA+
+longLabel homo_sapiens_MDAMB453_100nMCFZ_csRNA+
+type bigWig
+parent MDAMB453-treated_csRNA
+color 255,150,150
+
+track homo_sapiens_MDAMB453_100nMCFZ_csRNA-
+bigDataUrl https://raw.githubusercontent.com/AlphaCranberry/MDAMB_453_Data/main/MDAMB453-treated_csRNA/hg38/homo_sapiens_MDAMB453_100nMCFZ_csRNAneg.ucsc.bigWig
+shortLabel homo_sapiens_MDAMB453_100nMCFZ_csRNA-
+longLabel homo_sapiens_MDAMB453_100nMCFZ_csRNA-
+type bigWig
+parent MDAMB453-treated_csRNA
+color 255,180,180
+
+track homo_sapiens_MDAMB453_Ctrl_csRNA+
+bigDataUrl https://raw.githubusercontent.com/AlphaCranberry/MDAMB_453_Data/main/MDAMB453-treated_csRNA/hg38/homo_sapiens_MDAMB453_Ctrl_csRNApos.ucsc.bigWig
+shortLabel homo_sapiens_MDAMB453_Ctrl_csRNA+
+longLabel homo_sapiens_MDAMB453_Ctrl_csRNA+
+type bigWig
+parent MDAMB453-treated_csRNA
+color 150,150,255
+
+track homo_sapiens_MDAMB453_Ctrl_csRNA-
+bigDataUrl https://raw.githubusercontent.com/AlphaCranberry/MDAMB_453_Data/main/MDAMB453-treated_csRNA/hg38/homo_sapiens_MDAMB453_Ctrl_csRNAneg.ucsc.bigWig
+shortLabel homo_sapiens_MDAMB453_Ctrl_csRNA-
+longLabel homo_sapiens_MDAMB453_Ctrl_csRNA-
+type bigWig
+parent MDAMB453-treated_csRNA
+color 180,180,255
+
+track homo_sapiens_MDAMB453_500nMmgi32_csRNA+
+bigDataUrl https://raw.githubusercontent.com/AlphaCranberry/MDAMB_453_Data/main/MDAMB453-treated_csRNA/hg38/homo_sapiens_MDAMB453_500nMmgi32_csRNApos.ucsc.bigWig
+shortLabel homo_sapiens_MDAMB453_500nMmgi32_csRNA+
+longLabel homo_sapiens_MDAMB453_500nMmgi32_csRNA+
+type bigWig
+parent MDAMB453-treated_csRNA
+color 150,255,150
+
+track homo_sapiens_MDAMB453_500nMmgi32_csRNA-
+bigDataUrl https://raw.githubusercontent.com/AlphaCranberry/MDAMB_453_Data/main/MDAMB453-treated_csRNA/hg38/homo_sapiens_MDAMB453_500nMmgi32_csRNAneg.ucsc.bigWig
+shortLabel homo_sapiens_MDAMB453_500nMmgi32_csRNA-
+longLabel homo_sapiens_MDAMB453_500nMmgi32_csRNA-
+type bigWig
+parent MDAMB453-treated_csRNA
+color 180,255,180
+
+track homo_sapiens_MDAMB453_DMSO_csRNA+
+bigDataUrl https://raw.githubusercontent.com/AlphaCranberry/MDAMB_453_Data/main/MDAMB453-treated_csRNA/hg38/homo_sapiens_MDAMB453_DMSO_csRNApos.ucsc.bigWig
+shortLabel homo_sapiens_MDAMB453_DMSO_csRNA+
+longLabel homo_sapiens_MDAMB453_DMSO_csRNA+
+type bigWig
+parent MDAMB453-treated_csRNA
+color 255,200,150
+
+track homo_sapiens_MDAMB453_DMSO_csRNA-
+bigDataUrl https://raw.githubusercontent.com/AlphaCranberry/MDAMB_453_Data/main/MDAMB453-treated_csRNA/hg38/homo_sapiens_MDAMB453_DMSO_csRNAneg.ucsc.bigWig
+shortLabel homo_sapiens_MDAMB453_DMSO_csRNA-
+longLabel homo_sapiens_MDAMB453_DMSO_csRNA-
+type bigWig
+parent MDAMB453-treated_csRNA
+color 255,210,180
+

@@ -1,0 +1,5 @@
+hub MDAMB453-treated_csRNA
+shortLabel MDAMB453-treated_csRNA
+longLabel MDAMB453-treated_csRNA
+genomesFile genomes.txt
+email ian.brabb@wsu.edu

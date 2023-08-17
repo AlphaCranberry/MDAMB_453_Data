@@ -1,0 +1,9 @@
+# This is a hub file for the Wash U Epigenome Browser
+bigwig	https://raw.githubusercontent.com/AlphaCranberry/MDAMB_453_Data//MDAMB453-treated_csRNA/hg38/homo_sapiens_MDAMB453_100nMCFZ_csRNApos.ucsc.bigWig	homo_sapiens_MDAMB453_100nMCFZ_csRNA+	show	colorpositive:#990000,colornegative:#004080
+bigwig	https://raw.githubusercontent.com/AlphaCranberry/MDAMB_453_Data//MDAMB453-treated_csRNA/hg38/homo_sapiens_MDAMB453_100nMCFZ_csRNAneg.ucsc.bigWig	homo_sapiens_MDAMB453_100nMCFZ_csRNA-	show	colorpositive:#990000,colornegative:#004080
+bigwig	https://raw.githubusercontent.com/AlphaCranberry/MDAMB_453_Data//MDAMB453-treated_csRNA/hg38/homo_sapiens_MDAMB453_Ctrl_csRNApos.ucsc.bigWig	homo_sapiens_MDAMB453_Ctrl_csRNA+	show	colorpositive:#990000,colornegative:#004080
+bigwig	https://raw.githubusercontent.com/AlphaCranberry/MDAMB_453_Data//MDAMB453-treated_csRNA/hg38/homo_sapiens_MDAMB453_Ctrl_csRNAneg.ucsc.bigWig	homo_sapiens_MDAMB453_Ctrl_csRNA-	show	colorpositive:#990000,colornegative:#004080
+bigwig	https://raw.githubusercontent.com/AlphaCranberry/MDAMB_453_Data//MDAMB453-treated_csRNA/hg38/homo_sapiens_MDAMB453_500nMmgi32_csRNApos.ucsc.bigWig	homo_sapiens_MDAMB453_500nMmgi32_csRNA+	show	colorpositive:#990000,colornegative:#004080
+bigwig	https://raw.githubusercontent.com/AlphaCranberry/MDAMB_453_Data//MDAMB453-treated_csRNA/hg38/homo_sapiens_MDAMB453_500nMmgi32_csRNAneg.ucsc.bigWig	homo_sapiens_MDAMB453_500nMmgi32_csRNA-	show	colorpositive:#990000,colornegative:#004080
+bigwig	https://raw.githubusercontent.com/AlphaCranberry/MDAMB_453_Data//MDAMB453-treated_csRNA/hg38/homo_sapiens_MDAMB453_DMSO_csRNApos.ucsc.bigWig	homo_sapiens_MDAMB453_DMSO_csRNA+	show	colorpositive:#990000,colornegative:#004080
+bigwig	https://raw.githubusercontent.com/AlphaCranberry/MDAMB_453_Data//MDAMB453-treated_csRNA/hg38/homo_sapiens_MDAMB453_DMSO_csRNAneg.ucsc.bigWig	homo_sapiens_MDAMB453_DMSO_csRNA-	show	colorpositive:#990000,colornegative:#004080
